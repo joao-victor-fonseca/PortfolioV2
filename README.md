@@ -6,16 +6,12 @@
   </p>
 </div>
 
----
-
 <h2 align="left">💻 Tecnologias</h2>
 <div align="left"> 
     <a href="#">
         <img src="https://skillicons.dev/icons?i=git,js,react,tailwind,vite,github,threejs&theme=dark" alt="Tecnologias Utilizadas" />
     </a> 
 </div>
-
----
 
 <h2 align="left">🌐 Minhas Redes Sociais</h2> 
 <div align="left"> 
@@ -29,8 +25,6 @@
         <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="40" alt="Gmail" /> 
     </a> 
 </div>
-
----
 
 ## 👨‍💻 Autor
 
