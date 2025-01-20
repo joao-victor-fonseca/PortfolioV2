@@ -6,12 +6,16 @@
   </p>
 </div>
 
+---
+
 <h2 align="left">💻 Tecnologias</h2>
 <div align="left"> 
     <a href="#">
         <img src="https://skillicons.dev/icons?i=git,js,react,tailwind,vite,github,threejs&theme=dark" alt="Tecnologias Utilizadas" />
     </a> 
 </div>
+
+---
 
 <h2 align="left">🌐 Minhas Redes Sociais</h2> 
 <div align="left"> 
@@ -26,12 +30,8 @@
     </a> 
 </div>
 
-<h2 align="left">👨‍💻 Autor</h2> 
-<a href="https://github.com/joao-victor-fonseca" target="_blank" align="center"> 
-    <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca Assis" /> 
-    <br /> 
-    <sub><b>João Victor Fonseca Assis</b></sub> 
-</a> 
-<p>
-    Desenvolvido com ❤️ por João Victor Fonseca Assis. Entre em contato para mais informações ou colaborações!
-</p>
+---
+
+## 👨‍💻 Autor
+
+<p align="center"> <a href="https://github.com/joao-victor-fonseca" target="_blank"> <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca Assis" /> <br /> <sub><b>João Victor Fonseca Assis</b></sub> </a> </p> <p align="center"> Desenvolvido com ❤️ por <b>João Victor Fonseca Assis</b>. Entre em contato para mais informações ou colaborações! </p>
